@@ -58,7 +58,7 @@
 	<div class="container">
 		<div class="left">
 			<h3><span class="highlight">1. Ube Cream Brulee</span></h3>
-			<img src="/latihan/images/ubicreambrulee.jpg" style="float:left;margin-right: 20px;" width="250px" height="200px" alt="ube cream brulee" title="Ube Cream Brulee">
+			<img src="/Tugas_PengWeb/ubicreambrulee.jpg" style="float:left;margin-right: 20px;" width="250px" height="200px" alt="ube cream brulee" title="Ube Cream Brulee">
 			<p style="text-align: justify;">
 				Ube creme brulee atau creme brulee ubi merupakan dessert yang memadukan kelembutan creme brulee dan rasa manis serta legit dari ubi. Dessert ini dipopulerkan oleh sebuah restoran bernama Imo Pippi yang berlokasi di Asakusa, Jepang. Sajian creme brulee ubi juga memiliki perpaduan tekstur yang menarik. Bagian atas dari creme brulee ubi memiliki tekstur yang garing dan <i>crunchy</i>, sedangkan bagian bawahnya memiliki tekstur yang sangat lembut dan <i>creamy</i>. Kabar baiknya, tak perlu jauh-jauh pergi ke Jepang untuk bisa menikmati dessert yang menggugah selera. Dengan bahan-bahan yang relatif sederhana, creme brulee ubi juga bisa dibuat sendiri di rumah karena proses memasaknya cukup mudah. Berikut ini adalah resep membuat creme brulee ubi ala Cohen untuk empat porsi.</p>
 			<p>Bahan-bahan:</p>
@@ -85,7 +85,7 @@
 				<li>Ubi creme brulee siap disajikan</li>
 			</ol>
 			<h3><span class="highlight">3. Bola Ubi Kopong</span></h3>
-			<img src="/latihan/images/bolaubikopong.jpg" style="float:left;margin-right: 20px;" width="250px" height="200px" alt="Bola Ubi Kopong" title="Bola Ubi Kopong">
+			<img src="/Tugas_PengWeb/bolaubikopong.jpg" style="float:left;margin-right: 20px;" width="250px" height="200px" alt="Bola Ubi Kopong" title="Bola Ubi Kopong">
 			<p style="text-align:justify;"> Bola ubi kopong ini salah satu jajanan kekinian yang sedang viral. Jika biasanya bola ubu dilumuri tepung panir dan diberi isian seperti keju dan cokelat, kali ini isi bola ubi berongga di dalamnyakopong atau . Sehingga bola ubi ungu kopong ini tekstur luarnya lebih renyah namun empuk dan kenyal di dalam. Penasaran bagaimana cara membuatnya? Berikut resep bola ubiss kopong.</p>
 			<p>Bahan-bahan:</p>
 			<ul>
@@ -107,7 +107,7 @@
 				<li>Angkat dan tiriskan</li>
 			</ol>
 			<h3><span class="highlight">5. Goguma Latte</span></h3> 
-			<img src="/latihan/images/gogumalatte.jpeg" style="float:left;margin-right: 20px;" width="250px" height="380px" alt="goguma latte" title="Goguma Latte">
+			<img src="/Tugas_PengWeb/gogumalatte.jpeg" style="float:left;margin-right: 20px;" width="250px" height="380px" alt="goguma latte" title="Goguma Latte">
 			<p style="text-align: justify;">Setelah dalgona dan strawberry milk latte yang viral, Korea Selatan lagi-lagi punya kreasi minuman enak yang jadi tren, yaitu Goguma Latte yang merupakan susu ubi dengan cita rasa manis lembut. Bahan utama goguma latte adalah campuran susu dan ubi. Ubi yang digunakan bisa yang berwarna kuning atau ungu. Minuman ini praktis dibuat. Berikut resep goguma latte.
 			<p>Bahan-bahan:</p>
 			<ul>
@@ -129,7 +129,7 @@
 
 	<div class="right">
 		<h3><span class="highlight">2. Sweet Potato Cheese Bread</span></h3>
-		<img src="/latihan/images/sweetpotatocheesebread.jpg" style="float:left;margin-right: 20px;" width="280px" height="auto" alt="Sweet Potato Cheese Bread" title="Sweet Potato Cheese Bread">
+		<img src="/Tugas_PengWeb/sweetpotatocheesebread.jpg" style="float:left;margin-right: 20px;" width="280px" height="auto" alt="Sweet Potato Cheese Bread" title="Sweet Potato Cheese Bread">
 		<p style="text-align: justify;">Dikutip dari akun tiktok Luvita Ho, resep Sweet Potato Cheese Bread, olahan makanan dari ubi ungu yang menjadi bahan utama dalam pembuatan cemilan enak yang bergizi ini. Yuk simak resep simpel Sweet Potato Cheese Bread.</p>
 		<p>Bahan-bahan:</p>
 		<ul>
@@ -159,7 +159,7 @@
 			<li>Sweet Potato Cheese Bread siap disajikan.</li>
 		</ol>
 		<h3><span class="highlight">4. Bubur Cha Cha</span></h3>
-		<img src="/latihan/images/buburchacha.jpg" style="float:left;margin-right: 20px;" width="250px" height="250px" alt="bubur cha cha" title="Bubur Cha Cha">
+		<img src="/Tugas_PengWeb/buburchacha.jpg" style="float:left;margin-right: 20px;" width="250px" height="250px" alt="bubur cha cha" title="Bubur Cha Cha">
 		<p style="text-align: justify;"> Bubur cha cha, juga dieja sebagai bubur cha-cha atau dubo jiajie, adalah hidangan penutup Betawi dan Melayu adalah makanan sarapan dalam hidangan Indonesia, hidangan Malaysia, hidangan Singapura dan hidangan Phuket (Thailand) yang bisa disajikan panas atau dingin. Menu yang satu ini mirip seperti kolak, tetapi berkuah putih dan beraroma segar dari daun jeruk. Berikut resep bubur cha cha.</p>
 		<p>Bahan-bahan:</p>
 		<ul>
@@ -178,7 +178,7 @@
 			<li>Tambahkan ubi jalar merah, kuning, talas, dan ubi ungu, aduk rata. Matikan api, tuang ke dalam mangkuk saji. Santap segera.</li>
 		</ol>
 		<h3><span class="highlight">6. Selai Ubi Ungu</span></h3>
-		<img src="/latihan/images/selaiubiungu.jpeg" style="float:left;margin-right: 20px;" width="250px" height="350px" alt="selai ubi ungu" title="Selai Ubi Ungu">
+		<img src="/Tugas_PengWeb/selaiubiungu.jpeg" style="float:left;margin-right: 20px;" width="250px" height="350px" alt="selai ubi ungu" title="Selai Ubi Ungu">
 		<p style="text-align:justify;">Rasa ubi ungu kini cukup populer di beberapa negara dan bisa ditemukan pada berbagai jenis makanan atau minuman. Rasa manis, creamy, dan sedikit gurih dari ubi ungu juga cocok dijadikan selai pada roti. Berikut resep selai ubi ungu.</p><br>
 		<p>Bahan-bahan:</p>
 		<ul>
